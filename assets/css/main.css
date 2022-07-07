@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
+body {
+    background-color: #04565c;
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body a {
+    display: block;
+    width: 80%;
+    max-width: 450px;
+
+    text-align: center;
+    text-decoration: none;
+}
+
+body img {
+    width: 100%;
+}
